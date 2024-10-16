@@ -4,7 +4,7 @@ Este repositório contém um projeto que simula um circuito e código no TinkerC
 ### Arduino no TinkerCad
 Arduino e circuito montado no TinkerCAD. O circuito é composto pelo arduino, dois leds, dois resistores, um botão, e cabos jumper.
 <div align="center">
-    <img src="assets/ledoffboard1.png" alt="Imagem do Arduino 1" width="1000"/>
+    <img src="assets/ledoffboard1.jpg" alt="Imagem do Arduino 1" width="1000"/>
     <br>
     <sup>Imagem do Arduino 1 - Fonte: TinkerCAD</sup>
 </div>
@@ -16,7 +16,7 @@ Arduino e circuito montado no TinkerCAD. O circuito é composto pelo arduino, do
 </div>
 
 <div align="center">
-    <img src="assets/ledoffboard3.jpg" alt="Imagem do Arduino 3" width="1000"/>
+    <img src="assets/ledoffboard3.png" alt="Imagem do Arduino 3" width="1000"/>
     <br>
     <sup>Imagem do Arduino 2 - Fonte: TinkerCAD</sup>
 </div>
