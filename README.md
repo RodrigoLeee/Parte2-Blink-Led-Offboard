@@ -1,5 +1,5 @@
 # Parte 2 Blink Led Offboard Arduino
-Este repositório contém um projeto que simula um circuito e código no TinkerCAD para controlar dois LEDs externos (offboard) conectados em paralelo a um Arduino. O circuito faz com que os LEDs pisquem a cada 500 milissegundos (0,5 segundo). Um dos LEDs possui um botão que, enquanto pressionado, permite ativar ou desativar o seu piscar, oferecendo controle manual sobre o funcionamento do LED.
+Este repositório contém um projeto que simula um circuito e código no TinkerCAD para controlar dois LEDs externos (offboard) conectados em paralelo a um Arduino. O circuito faz com que os LEDs pisquem a cada 500 milissegundos (0,5 segundo). Um dos LEDs possui um botão que, enquanto pressionado, permite ativar ou desativar o seu piscar, oferecendo controle manual sobre o funcionamento do LED. [Link Para Projeto no TinkerCAD](https://www.tinkercad.com/things/hEZcRRMzEgQ-led-blink-offboard/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=bzt7QuECTYUGY0qkqGZLtuW-DkXVtX4Nd3_Vm0kVE0c).
 
 ### Arduino no TinkerCad
 Arduino e circuito montado no TinkerCAD. O circuito é composto pelo arduino, dois leds, dois resistores, um botão, e cabos jumper. Foi utilizada a porta 10 do Arduino em vez da porta 13.
