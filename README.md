@@ -18,7 +18,7 @@ Arduino e circuito montado no TinkerCAD. O circuito é composto pelo arduino, do
 <div align="center">
     <img src="assets/ledoffboard3.png" alt="Imagem do Arduino 3" width="1000"/>
     <br>
-    <sup>Imagem do Arduino 2 - Fonte: TinkerCAD</sup>
+    <sup>Imagem do Arduino 3 - Fonte: TinkerCAD</sup>
 </div>
 
 ### Imagem do Código
